@@ -1,0 +1,8 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "Weather Intelligence App using Open-Meteo Geocoding and Forecast APIs with current conditions, 7-day forecast, interactive charts, smart planning recommendations, and complete Docker configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
